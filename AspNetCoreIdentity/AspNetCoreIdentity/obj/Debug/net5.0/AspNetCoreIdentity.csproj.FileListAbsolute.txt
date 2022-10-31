@@ -68,3 +68,4 @@ D:\ASP.NET Projects\ASP.NET-Core-Login-and-Registration\AspNetCoreIdentity\AspNe
 D:\ASP.NET Projects\ASP.NET-Core-Login-and-Registration\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\net5.0\ref\AspNetCoreIdentity.dll
 D:\ASP.NET Projects\ASP.NET-Core-Login-and-Registration\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\net5.0\AspNetCoreIdentity.pdb
 D:\ASP.NET Projects\ASP.NET-Core-Login-and-Registration\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\net5.0\AspNetCoreIdentity.genruntimeconfig.cache
+D:\ASP.NET Projects\ASP.NET-Core-Login-and-Registration\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\net5.0\Razor\Pages\Register.cshtml.g.cs
